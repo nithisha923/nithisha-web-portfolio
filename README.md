@@ -1,56 +1,41 @@
-✨ Nithisha Ponnala — Data | Cloud | Analytics Portfolio
+# ✨ Nithisha Ponnala — Web Projects Portfolio
 
-Hi! I'm Nithisha Ponnala, a data analytics and cloud enthusiast with growing experience in SQL, Python, data modeling, dashboards, and Azure-based projects.
-This portfolio showcases the practical work I’ve completed across analytics, visualization, ETL workflows, and web development as part of my academic journey and real-world projects.
+Welcome! This repository is dedicated to my **web development projects** built using **HTML, CSS, and JavaScript**.  
+Each project focuses on clean UI, responsive layouts, and practical front-end functionality.
 
-🔹 👩‍💻 Skills Overview
+---
 
-Data Analytics: SQL, Python (Pandas, NumPy), Excel, Power BI, Tableau
-Data Engineering: ETL workflows, Azure Storage, Azure SQL Database, data modeling
-Cloud Engineering: Azure Blob, Azure Functions, Azure VM, Python integrations
-Business Analysis: Requirements gathering, documentation, workflow diagrams
-Web Development: HTML, CSS, JavaScript
-Tools: GitHub, VS Code, Jupyter, MySQL, Oracle SQL Developer, Power Query
+## 🌐 Web Projects
 
-📂 Portfolio Projects
-1️⃣ Real-World Project: Azure-Based E-Commerce AI/Analytics System
+📁 **Folder:** `web-projects/`
 
-Developed a cloud-integrated data pipeline using Azure Storage
+Inside this folder, you’ll find:
+- Responsive website pages
+- Landing pages
+- Interactive UI components
+- JavaScript mini-projects
 
-Automated data ingestion and processing using Python
+> Open any project folder to view its files and details.
 
-Built dashboards for insights and reporting
-📁 Folder: /real-world-projects/ecommerce-cloud-project
-🔗 (Link will work after uploading files)
+---
 
-2️⃣ Web Development Projects
+## 🚀 Live Website (GitHub Pages)
 
-Interactive websites built using HTML, CSS, and JavaScript.
-📁 Folder: /web-projects/
+If GitHub Pages is enabled for this repository, you can view the live site here:  
+🔗 https://nithisha923.github.io/nithisha-portfolio/
 
-3️⃣ Power BI Dashboards
+---
 
-Dashboards created for business, healthcare, and academic insights.
-📁 /powerbi/
+## 🧰 Tech Stack
 
-4️⃣ Tableau Visualizations
+- HTML5
+- CSS3
+- JavaScript (ES6)
+- Git & GitHub
 
-Interactive Tableau dashboards for analytics and storytelling.
-📁 /tableau/
+---
 
-5️⃣ SQL & Python Analytics Work
+## 📫 Contact
 
-Data cleaning, exploratory analytics, and SQL queries.
-📁 /data-analysis/
-
-🚀 Currently Working On
-
-🔹 Azure + Python end-to-end project
-🔹 Power BI analytics workflows
-🔹 Learning advanced data engineering concepts
-
-📫 Contact
-
-LinkedIn: www.linkedin.com/in/nithisha-ponnala-52b021217
-
-Email: nithishaponnala@gmail.com
+- LinkedIn: https://www.linkedin.com/in/nithisha-ponnala-52b021217  
+- Email: nithishaponnala@gmail.com
