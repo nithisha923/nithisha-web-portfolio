@@ -22,7 +22,8 @@ Inside this folder, you’ll find:
 ## 🚀 Live Website (GitHub Pages)
 
 If GitHub Pages is enabled for this repository, you can view the live site here:  
-🔗 https://nithisha923.github.io/nithisha-portfolio/
+👉 [View Live Website](https://nithisha923.github.io/nithisha-web-portfolio/web-projects/AccelerateInnovationForum/)
+
 
 ---
 
